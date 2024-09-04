@@ -79,3 +79,9 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.buttons{
+  margin: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
